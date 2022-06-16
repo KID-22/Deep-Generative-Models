@@ -37,27 +37,27 @@ To run the model on a different dataset, or with different hyper-parameters, etc
 ## Results
 ### Sample Quality
 #### Circle 1
-![](.assets/vae.jpg)
-![](.assets/gan.jpg)
-![](.assets/wgan.jpg)
-![](.assets/wgan_gp.jpg)
+![](./fig/circle_1/vae.jpg)
+![](./fig/circle_1/gan.jpg)
+![](./fig/circle_1/wgan.jpg)
+![](./fig/circle_1/wgan_gp.jpg)
 
 
 #### Circle 2
-![](.assets/vae-16553867387532.jpg)
-![](.assets/gan-16553867387543.jpg)
-![](.assets/wgan-16553867387544.jpg)
-![](.assets/wgan_gp-16553867387555.jpg)
+![](./fig/circle_2/vae.jpg)
+![](./fig/circle_2/gan.jpg)
+![](./fig/circle_2/wgan.jpg)
+![](./fig/circle_2/wgan_gp.jpg)
 
 ### Visualization of Loss
 #### Circle 1
-![](.assets/vae_loss.jpg)
-![](.assets/gan_loss.jpg)
-![](.assets/wgan_loss.jpg)
-![](.assets/wgan_gp_loss.jpg)
+![](./fig/circle_1/vae_loss.jpg)
+![](./fig/circle_1/gan_loss.jpg)
+![](./fig/circle_1/wgan_loss.jpg)
+![](./fig/circle_1/wgan_gp_loss.jpg)
 
 #### Circle 2
-![](.assets/vae_loss-16553867387566.jpg)
-![](.assets/gan_loss-16553867387567.jpg)
-![](.assets/wgan_loss-16553867387568.jpg)
-![](.assets/wgan_gp_loss-16553867387579.jpg)
+![](./fig/circle_2/vae_loss.jpg)
+![](./fig/circle_2/gan_loss.jpg)
+![](./fig/circle_2/wgan_loss.jpg)
+![](./fig/circle_2/wgan_gp_loss.jpg)
